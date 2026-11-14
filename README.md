@@ -9,7 +9,7 @@ Software engineer from Seville, Spain. I build backend systems in Java and Pytho
 
 **[Thief King](https://github.com/Thief-King-Organization/thief-king)**, final degree project. A multiplayer card game built in a team of two. My part: the Spring Boot backend (Spring Data JPA, Flyway migrations on PostgreSQL, JWT auth with Spring Security) and the React and TypeScript frontend.
 
-**[Othello engine](https://github.com/antonio-mz/busqueda-adversaria-otelo)**, pair-programmed with a classmate. Monte Carlo Tree Search generates games, a neural network learns from them to evaluate board states, and the network replaces random playouts inside the search. In automated games, with fewer iterations, the network-guided agent won around 70-75% of the time.
+**[Othello engine](https://github.com/antonio-mz/busqueda-adversaria-otelo)**, pair-programmed with a classmate. Monte Carlo Tree Search generates games, a neural network learns from them to evaluate board states, and the network replaces random playouts inside the search.
 
 **[Eventbride](https://github.com/ISPP-Eventbride/Eventbride)**, an event management platform built by a multidisciplinary agile team simulating a startup. I co-designed the modular backend and the relational database, wrote automated tests with JUnit, and took part in code reviews and the CI/CD workflows with GitHub Actions on Google Cloud.
 
